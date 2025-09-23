@@ -89,7 +89,7 @@ io.on('connection', (socket) => {
 // -------------------------------------------------------
 setInterval(() => {
   io.emit('arduino-live', latestArduino);
-}, 2000);
+}, 500);
 
 // -------------------------------------------------------
 // SERVE FRONTEND, API Index
