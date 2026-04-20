@@ -134,10 +134,17 @@ Deployed on **Render** (free tier).
 
 Watch the hardware setup and live demonstration of the ElectroBits sensor node in action:
 
-<!-- Replace the URL below with your YouTube video link -->
-[![ElectroBits Hardware Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![ElectroBits Hardware Demo](https://img.youtube.com/vi/3qx_vl9SHf0/maxresdefault.jpg)](https://www.youtube.com/watch?v=3qx_vl9SHf0)
 
 > Click the thumbnail above to watch on YouTube.
+
+---
+
+## Presentation
+
+View the full project presentation on Canva:
+
+[View Presentation →](https://canva.link/rt70yahcjgw3r7z)
 
 ---
 
