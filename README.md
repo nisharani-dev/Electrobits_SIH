@@ -130,18 +130,14 @@ Deployed on **Render** (free tier).
 
 ---
 
-## Team
+## Hardware Demo
 
-Built for **Smart India Hackathon (SIH)** by:
+Watch the hardware setup and live demonstration of the ElectroBits sensor node in action:
 
-| Name | Role |
-|------|------|
-| Pragya Aggarwal | Team Lead & Hardware Specialist |
-| Priya Prakash | Software — Dashboard & Backend |
-| Ritika Maan | Software — Dashboard & Backend |
-| Sanchita Yadav | Software — Dashboard & Backend |
-| Rishita Kashnia | Hardware — Sensors & Communication |
-| Nisha Rani | Hardware — Sensors & Communication |
+<!-- Replace the URL below with your YouTube video link -->
+[![ElectroBits Hardware Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+
+> Click the thumbnail above to watch on YouTube.
 
 ---
 
